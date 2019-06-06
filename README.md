@@ -66,3 +66,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Helpful Resources
+
+Proxy Function getters and setters (Credit):
+http://2ality.com/2015/10/intercepting-method-calls.html
+
+IDE Live Demo For App :
+https://repl.it/repls/BrilliantSilkyAdvance
